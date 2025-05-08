@@ -1,5 +1,5 @@
 # 🎶 RythmImitation - Gerador de Padrões Rítmicos 🎶
-![Image](https://github.com/user-attachments/assets/53835fbf-1a69-44c5-9ae9-cdb8598c3105)
+![Image](https://github.com/user-attachments/assets/67f902e7-4f21-4223-9b43-0f1fda7f8607)
 
 Este projeto é um **gerador de padrões rítmicos melódicos** desenvolvido com Python, utilizando a biblioteca `tkinter` para a interface gráfica e `pydub` para gerar os áudios. O objetivo é criar arquivos de áudio com padrões rítmicos específicos, tocando notas melódicas predefinidas. 🥁🎹
 
