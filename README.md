@@ -1,4 +1,5 @@
 # 🎶 Gerador de Padrões Rítmicos Melódicos 🎶
+![Image](https://github.com/user-attachments/assets/cde1c20b-6201-4e20-94a4-c371b67a11d7)
 
 Este projeto é um **gerador de padrões rítmicos melódicos** desenvolvido com Python, utilizando a biblioteca `tkinter` para a interface gráfica e `pydub` para gerar os áudios. O objetivo é criar arquivos de áudio com padrões rítmicos específicos, tocando notas melódicas predefinidas. 🥁🎹
 
