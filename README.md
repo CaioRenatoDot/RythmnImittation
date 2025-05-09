@@ -8,7 +8,7 @@ Este projeto é um **gerador de padrões rítmicos melódicos** desenvolvido com
 - **Geração de Áudios**: Cria arquivos de áudio com padrões rítmicos usando notas melódicas. 🎶
 - **Interface Gráfica**: A interface permite ao usuário selecionar o local para salvar os áudios gerados. 🖥️
 - **Notas Melódicas**: Utiliza notas de uma escala simples, tocadas em diferentes durações. 🎵
-- **Formato de Áudio**: Os arquivos gerados são no formato **WAV**. 📂
+- **Formato de Áudio**: Os arquivos gerados são no formato **WAV**, em breve para **MP3**. 📂
 
 ## 🛠️ Tecnologias Utilizadas
 
