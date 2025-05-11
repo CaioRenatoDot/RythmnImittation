@@ -1,0 +1,24 @@
+{
+  "name": "rythmnimittation",
+  "version": "1.0.0",
+  "description": "![Image](https://github.com/user-attachments/assets/f3b3f4e0-7e58-4fbd-afee-860ce7e61984)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ." ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioRenatoDot/RythmnImittation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioRenatoDot/RythmnImittation/issues"
+  },
+  "homepage": "https://github.com/CaioRenatoDot/RythmnImittation#readme",
+  "dependencies": {
+    "electron": "^36.2.0"
+  }
+}
